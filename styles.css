@@ -1,0 +1,107 @@
+body{
+	background-image: url("img/tile_bg.png");
+	background-color: #da7c86;
+	background-position: center;
+	background-repeat: repeat-y;
+
+	width: 2000px;
+	min-height: 800px;
+	max-width: 1430px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;}
+a {
+	font-family: Verdana;
+	color: #B14E58;}
+p{
+	font-family: Verdana;
+	color: #FFFFFF;
+	padding: 50px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: left;}
+ul{
+	font-family: Verdana;
+	color: #FFFFFF;
+	padding: 15px;
+	padding-inline-start: 110px;
+	margin-top:0px;
+	text-align: left;}
+p.centerf{
+	font-family: Verdana;
+	color: #FFFFFF;
+	text-align: center;}
+p.center{
+	font-family: Verdana;
+	text-align: center;}
+
+h1{
+	font-size: 50px;
+	font-family: Verdana;
+	color: #FFFFFF;
+	text-align: center;}
+h2{
+	font-size: 25px;
+	font-family: Verdana;
+	color: #FFFFFF;
+	text-align: center;}
+
+
+.webzone {
+	width: 85px;
+	height: 23px;
+    margin-top: -20px;
+    margin-left: -5px;
+}
+
+.header{
+	border: 0px;
+	}
+
+.imgheader{
+	object-position: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1430px;
+	height: 440px;
+	border: 0px;
+}
+.imgmenuitemLONG{
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 640px;
+	height: 130px;
+}
+.imgmenuitemBACK{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 115px;
+	height: 64px;
+}
+.imgmenuitemMUS{
+	object-position: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 660px;
+	height: 268px;
+}
+
+.imgmenuitemMUSNEWEST{
+	object-position: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 972px;
+	height: 394px;
+}
+
+.imgICON{
+	width: 64px;
+	height: 64px;
+}
+
+.imgCENTER{
+	object-position: center;
+}
